@@ -8,7 +8,7 @@ Here are some things you need to know about me:
 
 ### Skills:
 
-- HTML5, CSS3, JavaScript, jQuery, React.js, Hooks, Next.js, Email Templating ....
+- HTML5, CSS3, JavaScript, jQuery, React.js, Hooks, Solidity, TypeScript, Next.js, Email Templating ....
 
 ### CSS Frameworks:
 
