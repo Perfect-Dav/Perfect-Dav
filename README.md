@@ -18,6 +18,5 @@ Here are some things you need to know about me:
 
 - 💬 Ask me about anything!
 
-- 📫 How to reach me: `perfectadewale31@gmail.com`(My mail!) 
 
 
